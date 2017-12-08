@@ -1,0 +1,6 @@
+.Home {
+  background: url("../img/Home.jpg") no-repeat;
+  background-size: cover;
+  min-height: 600px; }
+  .Home .row p {
+    font-family: 'Roboto', sans-serif; }
